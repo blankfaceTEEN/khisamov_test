@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Laba Test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Laba_Test_jar</output-path>
+    <root id="archive" name="Laba Test.jar">
+      <element id="module-output" name="Laba Test" />
+    </root>
+  </artifact>
+</component>
